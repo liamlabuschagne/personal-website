@@ -1,11 +1,11 @@
 <template>
-    <h1>{{post.title}}</h1>
-    <p>{{post.description}}</p>
+    <h1>{{post?.title}}</h1>
+    <p>{{post?.description}}</p>
     <section v-html="content">
     </section>
 </template>
 
-<script setup>
+<script setup lang="ts">
     import store from '../store';
     import {useRoute} from 'vue-router';
     const route = useRoute()

@@ -10,3 +10,9 @@
 <script setup lang="ts">
     const props = defineProps(['title','description','created','updated']);
 </script>
+
+<style scoped>
+	div {
+		cursor: pointer;
+	}
+</style>

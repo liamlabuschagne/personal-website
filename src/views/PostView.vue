@@ -1,6 +1,5 @@
 <template>
 	<h1>{{post.title}}</h1>
-	<p>{{post.description}}</p>
 	<section v-html="post.content"></section>
 </template>
 

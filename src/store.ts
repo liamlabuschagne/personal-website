@@ -3,6 +3,13 @@ import {reactive} from 'vue';
 const store = reactive({
     posts: [
         {
+            "uri": "this-website",
+            "title": "How This Website Was Build",
+            "description": "This blog post outlines exactly how I've created this website, what challenges I faced and how I do it all for $0.",
+            "created": new Date("2023-09-28T20:00Z"),
+            "updated": new Date("2023-09-28T20:00Z")
+        },
+        {
             "uri": "example-blog-post",
             "title": "Example Blog Post",
             "description": "This blog post is just an example.",

@@ -87,6 +87,29 @@
 			purchase price and you halve or double the return.
 		</p>
 	</section>
+	<section>
+		<h2>Lesson 3: What is a Balance Sheet</h2>
+		<p>
+			This is one of the three financial statements which
+			describes the assets and liabilities of the business.
+		</p>
+		<p>
+			In the previous lesson we were essentially discussing
+			the income statement where the main output figure is net
+			income. In this case, equity is the main output figure
+			being assets minus liabilities.
+		</p>
+		<p>
+			If you evenly divide a company into pieces called shares
+			the equity in that piece would be called book value.
+		</p>
+		<p>
+			The closer the purchase price is to the equity, the
+			safer the investment because more of your investment
+			could be recovered just by selling the assets of the
+			business.
+		</p>
+	</section>
 </template>
 <style scoped>
 header,

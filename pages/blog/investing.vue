@@ -1,5 +1,5 @@
 <template>
-	<section>
+	<header>
 		<h1>Investing</h1>
 		<p>
 			This article is a summary of what I've learned from one
@@ -22,7 +22,7 @@
 			would highly recommend following along with it if you
 			want the full benefit.
 		</p>
-	</section>
+	</header>
 	<section>
 		<h2>Lesson 1: What is Value Investing</h2>
 		<p>
@@ -58,20 +58,41 @@
 			pocket in the form of surplus rental income once the
 			mortgage is paid down significantly. You could also
 			structure the debt using various techniques to ensure a
-			positive cash flow from outset. I won't say more on this
-			here since the article is not primarily focused on
+			positive cash flow from the outset. I won't say more on
+			this here since the article is not primarily focused on
 			property investing.
 		</p>
 	</section>
+	<section>
+		<h2>Lesson 2: Value a Small Business</h2>
+		<p>
+			Businesses bring in revenue, pay expenses, what's left
+			is the net income. Usually at this point a business will
+			pay taxes on that net income and then the owner of the
+			business can either invest this income back into the
+			business or take it out.
+		</p>
+		<p>
+			A large business is exactly the same except that it has
+			a board of directors which represent the shareholders,
+			and all the employees including the CEO work for the
+			shareholders because they own the business.
+		</p>
+		<p>
+			The value of a business is largely dependent on what
+			people will pay for it. The more you pay for a business,
+			the lower your return will be. If you bought a business
+			for $1 and it made $1 of net income for the year, you
+			would have made a 100% return. Double or halve the
+			purchase price and you halve or double the return.
+		</p>
+	</section>
 </template>
-<style>
-h1,
-h2,
-h3 {
-	text-align: center;
-}
-p {
-	max-width: 500px;
-	margin: 1rem auto;
+<style scoped>
+header,
+section {
+	max-width: 900px;
+	font-size: 2rem;
+	margin: auto;
 }
 </style>

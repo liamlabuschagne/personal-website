@@ -6,6 +6,9 @@
       <li>
         <nuxt-link to="/blog/this-website">This Website</nuxt-link>
       </li>
+      <li>
+        <nuxt-link to="/blog/investing">Investing</nuxt-link>
+      </li>
     </ul>
   </div>
 </template>

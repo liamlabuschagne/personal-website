@@ -110,6 +110,126 @@
 			business.
 		</p>
 	</section>
+	<section>
+		<h2>Lesson 4: What is a Share?</h2>
+		<p>
+			A share is an equal sized piece of a company. If you own
+			one share, you own that portion of the business. Since
+			you really do own part of the business, you also own the
+			equity in the business and have a right to the net
+			income of the business.
+		</p>
+		<p>
+			Each share has a book value (equity) and earnings (net
+			income) which are simply terms for the same main outputs
+			of the financial statements but on a per share basis.
+		</p>
+		<p>
+			The price to earnings ratio describes what the market
+			price for a share is compared to its earnings. If a
+			company has a P/E of 5 that means "for every $5 I pay
+			buying this business, I expect to earn $1 a year later".
+		</p>
+		<p>
+			Whether you buy the whole business or just one share,
+			the proportions are the same so always run the numbers
+			using ratios and percentages rather that nominal
+			figures.
+		</p>
+	</section>
+	<section>
+		<h2>Lesson 5: Warren Buffett Stock Basics</h2>
+		<p>Warren Buffett has four rules in investing.</p>
+		<p>
+			Firstly, the company has to be stable and understandable
+			otherwise it's simply not possible to predict the future
+			of the company.
+		</p>
+		<p>
+			Secondly, the company must have long term prospects
+			because buying and holding a company will save you fees,
+			taxes and time over your investing career
+		</p>
+		<p>
+			Third, the business must be managed by vigiliant
+			leaders. The only way to assess this is to look at debt
+			levels and how well the company reinvests its income if
+			it decides to not to pay it out to the owners.
+		</p>
+		<p>
+			Finally, the business must be undervalued because over
+			paying for even the best business will result in poor
+			returns.
+		</p>
+		<p>
+			A quick way to screen a company when looking for an
+			investment is the following: P/E * P/BV &lt; 22.5
+		</p>
+		<p>
+			Take the P/E ratio (return) and the price to book value
+			ratio (P/BV which represents safety) and multiply them
+			together ensuring the result is less than 22.5. This is
+			equivalent to a P/E of less than 15 and a P/BV of less
+			than 1.5.
+		</p>
+		<p>
+			Remember that the market is just there offering you
+			prices every day and doesn't represent the value of the
+			company.
+		</p>
+		<p>
+			Be patient (this is a slow and boring process) and think
+			critically (if it was really as easy as copying your
+			neighbours stock picks, everyone would be doing it).
+		</p>
+	</section>
+	<section>
+		<h2>Lesson 6: What is a Bond?</h2>
+		<p>
+			A bond is an IOU from a company or government
+			organisation used to raise money (debt) which they will
+			pay back after a term all the while paying a coupon at a
+			regular interval.
+		</p>
+		<p>
+			Every bond has a par value which is the original amount
+			provided by the investor and also the amount to be
+			returned to the investor at the end of the term.
+		</p>
+		<p>
+			During the term the investor may decide to sell the bond
+			at which time the market price may differ from the par
+			value primarily due to interest rates offering better or
+			worse options to the market.
+		</p>
+		<p>
+			The coupon rate is a percentage of the par value which
+			is reedeemed in fixed dollar amounts, for example $50
+			every year on a $1000 par value bond is a 5% coupon
+			rate. From the date of issuance until the inital value
+			is returned, that same $50 will be paid every year
+			regardless.
+		</p>
+		<p>
+			Apart from interest rates changing bonds also have
+			failure risk of the issuing organisation as well as
+			inflation.
+		</p>
+		<p>
+			The reason why bonds are considered a safer investment
+			compared to preferred or common stock is because they
+			are paid back first in the event of a liquidation.
+		</p>
+		<p>
+			Bonds will also increase in value whenever interest
+			rates decrease usually in economic downturns when
+			central banks are trying to stimulate the economy.
+		</p>
+		<p>
+			Bonds are largely inversely correlated with stocks which
+			helps to smooth out the ups and downs.
+		</p>
+	</section>
 </template>
 <style scoped>
 header,

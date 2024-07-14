@@ -192,25 +192,6 @@
 			regular interval.
 		</p>
 		<p>
-			Every bond has a par value which is the original amount
-			provided by the investor and also the amount to be
-			returned to the investor at the end of the term.
-		</p>
-		<p>
-			During the term the investor may decide to sell the bond
-			at which time the market price may differ from the par
-			value primarily due to interest rates offering better or
-			worse options to the market.
-		</p>
-		<p>
-			The coupon rate is a percentage of the par value which
-			is reedeemed in fixed dollar amounts, for example $50
-			every year on a $1000 par value bond is a 5% coupon
-			rate. From the date of issuance until the inital value
-			is returned, that same $50 will be paid every year
-			regardless.
-		</p>
-		<p>
 			Apart from interest rates changing bonds also have
 			failure risk of the issuing organisation as well as
 			inflation.
@@ -221,13 +202,42 @@
 			are paid back first in the event of a liquidation.
 		</p>
 		<p>
-			Bonds will also increase in value whenever interest
-			rates decrease usually in economic downturns when
-			central banks are trying to stimulate the economy.
+			Bods will also increase in value whenever interest rates
+			decrease usually in economic downturns when central
+			banks are trying to stimulate the economy.
 		</p>
 		<p>
-			Bonds are largely inversely correlated with stocks which
-			helps to smooth out the ups and downs.
+			Bonds are most of the time inversely correlated with
+			stocks which helps to smooth out the ups and downs.
+		</p>
+	</section>
+	<section>
+		<h2>Lesson 7: Components of a Bond</h2>
+		<p>
+			Every bond has a par value which is the original amount
+			provided by the investor and also the amount to be
+			returned to the investor at the end of the term.
+		</p>
+		<p>
+			The coupon rate is a percentage of the par value which
+			is reedeemed in fixed dollar amounts, for example $50
+			every year on a $1000 par value bond is a 5% coupon
+			rate. From the date of issuance until the inital value
+			is returned, that same $50 will be paid every year
+			regardless.
+		</p>
+		<p>
+			During the term the investor may decide to sell the bond
+			at which time the market price may differ from the par
+			value primarily due to interest rates offering better or
+			worse options to the market.
+		</p>
+		<p>
+			As a bond approaches maturity, it will return to its par
+			value but the futher it is away from this date, the more
+			coupons that are yet to be paid and the more time
+			interest rates have an opportunity to influence the
+			market price of that bond.
 		</p>
 	</section>
 </template>
@@ -235,7 +245,6 @@
 header,
 section {
 	max-width: 900px;
-	font-size: 2rem;
 	margin: auto;
 }
 </style>

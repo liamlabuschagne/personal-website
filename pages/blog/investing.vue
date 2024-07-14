@@ -137,6 +137,52 @@
 			figures.
 		</p>
 	</section>
+	<section>
+		<h2>Lesson 5: Warren Buffett Stock Basics</h2>
+		<p>Warren Buffett has four rules in investing.</p>
+		<p>
+			Firstly, the company has to be stable and understandable
+			otherwise it's simply not possible to predict the future
+			of the company.
+		</p>
+		<p>
+			Secondly, the company must have long term prospects
+			because buying and holding a company will save you fees,
+			taxes and time over your investing career
+		</p>
+		<p>
+			Third, the business must be managed by vigiliant
+			leaders. The only way to assess this is to look at debt
+			levels and how well the company reinvests its income if
+			it decides to not to pay it out to the owners.
+		</p>
+		<p>
+			Finally, the business must be undervalued because over
+			paying for even the best business will result in poor
+			returns.
+		</p>
+		<p>
+			A quick way to screen a company when looking for an
+			investment is the following: P/E * P/BV &lt; 22.5
+		</p>
+		<p>
+			Take the P/E ratio (return) and the price to book value
+			ratio (P/BV which represents safety) and multiply them
+			together ensuring the result is less than 22.5. This is
+			equivalent to a P/E of less than 15 and a P/BV of less
+			than 1.5.
+		</p>
+		<p>
+			Remember that the market is just there offering you
+			prices every day and doesn't represent the value of the
+			company.
+		</p>
+		<p>
+			Be patient (this is a slow and boring process) and think
+			critically (if it was really as easy as copying your
+			neighbours stock picks, everyone would be doing it).
+		</p>
+	</section>
 </template>
 <style scoped>
 header,

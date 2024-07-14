@@ -183,6 +183,53 @@
 			neighbours stock picks, everyone would be doing it).
 		</p>
 	</section>
+	<section>
+		<h2>Lesson 6: What is a Bond?</h2>
+		<p>
+			A bond is an IOU from a company or government
+			organisation used to raise money (debt) which they will
+			pay back after a term all the while paying a coupon at a
+			regular interval.
+		</p>
+		<p>
+			Every bond has a par value which is the original amount
+			provided by the investor and also the amount to be
+			returned to the investor at the end of the term.
+		</p>
+		<p>
+			During the term the investor may decide to sell the bond
+			at which time the market price may differ from the par
+			value primarily due to interest rates offering better or
+			worse options to the market.
+		</p>
+		<p>
+			The coupon rate is a percentage of the par value which
+			is reedeemed in fixed dollar amounts, for example $50
+			every year on a $1000 par value bond is a 5% coupon
+			rate. From the date of issuance until the inital value
+			is returned, that same $50 will be paid every year
+			regardless.
+		</p>
+		<p>
+			Apart from interest rates changing bonds also have
+			failure risk of the issuing organisation as well as
+			inflation.
+		</p>
+		<p>
+			The reason why bonds are considered a safer investment
+			compared to preferred or common stock is because they
+			are paid back first in the event of a liquidation.
+		</p>
+		<p>
+			Bonds will also increase in value whenever interest
+			rates decrease usually in economic downturns when
+			central banks are trying to stimulate the economy.
+		</p>
+		<p>
+			Bonds are largely inversely correlated with stocks which
+			helps to smooth out the ups and downs.
+		</p>
+	</section>
 </template>
 <style scoped>
 header,

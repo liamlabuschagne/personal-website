@@ -110,6 +110,33 @@
 			business.
 		</p>
 	</section>
+	<section>
+		<h2>Lesson 4: What is a Share?</h2>
+		<p>
+			A share is an equal sized piece of a company. If you own
+			one share, you own that portion of the business. Since
+			you really do own part of the business, you also own the
+			equity in the business and have a right to the net
+			income of the business.
+		</p>
+		<p>
+			Each share has a book value (equity) and earnings (net
+			income) which are simply terms for the same main outputs
+			of the financial statements but on a per share basis.
+		</p>
+		<p>
+			The price to earnings ratio describes what the market
+			price for a share is compared to its earnings. If a
+			company has a P/E of 5 that means "for every $5 I pay
+			buying this business, I expect to earn $1 a year later".
+		</p>
+		<p>
+			Whether you buy the whole business or just one share,
+			the proportions are the same so always run the numbers
+			using ratios and percentages rather that nominal
+			figures.
+		</p>
+	</section>
 </template>
 <style scoped>
 header,

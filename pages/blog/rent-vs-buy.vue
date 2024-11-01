@@ -31,12 +31,16 @@
       flat in the backyard. The bathroom, laundry, and second toilet have been
       newly renovated but the kitchen is still original and the house has an
       awful green carpet throughout. Needless to say most people would want to
-      do some work to it to make it nicer but its technically liveable as is.
+      do some work to it to make it nicer but it's technically liveable as is.
     </p>
     <h3>Mortgage Calculator</h3>
     <p>
-      I'm using the Co-Operative bank mortgage calculator with the following
-      inputs:
+      I'm using the
+      <a
+        href="https://www.co-operativebank.co.nz/borrowing/home-loans/repayment-calculator"
+        >Co-Operative bank mortgage calculator</a
+      >
+      with the following inputs:
     </p>
     <ul>
       <li>Property price: $609,000</li>
@@ -48,11 +52,16 @@
     <p>
       This gives us a weekly repayment of $670.59. How do we know this is
       affordable/good/bad? Based on a long-standing personal finance rule called
-      the 28/36 rule your regular housing costs should not be more than 28% of
-      your gross income. This includes mortgage payments, property taxes, and
-      insurance and any other regular costs directly related to the mortgage.
-      The 36% rule is the same but includes all debt payments (credit cards, buy
-      now pay later, car debt etc).
+      the
+      <a
+        href="https://mortgages.co.nz/how-much-income-should-go-to-my-mortgage/"
+        >28/36 rule</a
+      >
+      your regular housing costs should not be more than 28% of your gross
+      income. This includes mortgage payments, property taxes, and insurance and
+      any other regular costs directly related to the mortgage. The 36% rule is
+      the same but includes all debt payments (credit cards, buy now pay later,
+      car debt etc).
     </p>
     <ul>
       <li>Weekly repayment: $670.59</li>
@@ -62,7 +71,7 @@
       To give owning the best possible chance and to keep things simple, I'm
       going to exclude the costs of rates and insurance and assume we have no
       other debts. Therefore, working backwards from the mortgage payment we
-      should be able to calculate what our gross-income needs to be to
+      should be able to calculate what our gross income needs to be to
       comfortably afford this mortgage.
     </p>
     <ul>
@@ -113,10 +122,10 @@
       housing cost will be over 50% before any groceries, petrol or other
       necessary expenses. Some might say that not all of this money is going
       toward interest and so some of it could be considered savings. This is
-      true however based on the parameters you put in only in year 19 will you
-      start to pay more in principal than interest. I used
+      true, however, based on the parameters you put in only in year 19 will you
+      start to pay more in principal than interest. I used the
       <a href="https://sorted.org.nz/tools/mortgage-calculator/"
-        >sorted's mortgage repayment calculator</a
+        >sorted mortgage repayment calculator</a
       >
       (which had a higher mortgage payment estimate by the way).
     </p>
@@ -147,7 +156,7 @@
     <p>
       OK, but you might retort, well it's still better than renting right? When
       you're renting you are just paying someone else's mortgage? Firstly, I
-      want to dispel this myth on the basis logic. When you buy a meal at a
+      want to dispel this myth on the basis of logic. When you buy a meal at a
       restaurant no one ever complains that they're paying the restaurant
       owner's mortgage. In the same way that in the restaurant you are paying
       for a food service, when you rent you are getting a housing service with
@@ -155,10 +164,9 @@
     </p>
     <p>
       Next, lets look at what you could rent with those same incomes spending
-      the same amount on rent as you did on your mortgage (roughly 40%). To give
-      renting the worst possible chance, I'm not going to add any allowances
-      that represent the insurance and rates you would have to pay in the buy
-      situation.
+      the same amount on rent as you did on your mortgage. To give renting the
+      worst possible chance, I'm not going to add any allowances that represent
+      the insurance and rates you would have to pay in the buy situation.
     </p>
     <ul>
       <li>Available to spend on rent: $670.59</li>
@@ -179,7 +187,7 @@
     </ul>
     <p>
       Let's compare this to how many houses you could afford to buy in the same
-      areas with $610,000.
+      areas with $609,000.
     </p>
     <ul>
       <li>Waipa District: 40/232 (17%)</li>
@@ -197,7 +205,7 @@
       with kids) and not have to deal with all the responsibilities that come
       with owning. If you only really need 2 bedrooms for example, your rent may
       come down by $100-200 a week which could be further invested or used for
-      lifestyle expenses whilst when you own you are probably going to try to
+      lifestyle expenses whilst when you own, you are probably going to try to
       future proof the amount of space you need.
     </p>
   </section>
@@ -229,15 +237,17 @@
       on top of your mortgage payment. Which is $117 per week.
     </p>
     <ul>
-      <li>Maintenance cost estimate rule: 1% of house value per year</li>
+      <li>Maintenance cost estimate: 1% of house value per year</li>
       <li>Per year maintenance (no price appreciation): $6090</li>
       <li>Maintenance cost per week: $117</li>
     </ul>
     <p>
       Adding this maintenance cost alone to your available amount for renting
       gives you $787 per week of budget which in Auckland city allows you to
-      afford 290/653 (44%) 3 bedroom houses which is a 16% increase in options
-      available to you.
+      afford 290/653 (44%) 3 bedroom houses which is a 16% improvement in
+      options available to you. I would also hazard a guess that the quality of
+      house you can get whilst renting is likely to be higher than an equivalent
+      bought home (just speculation).
     </p>
   </section>
   <section>
@@ -273,12 +283,12 @@
     </p>
     <p>
       What about me? Needless to say, I won't be buying a house any time soon
-      and especially not in New Zealand, at least not as a primarily a place to
-      live. This is mostly due to the fact that early on in my career I need to
-      be flexible and be able to move to where the jobs are. Additionally, based
-      on my current level of savings and income, it simply would not be viable
-      to buy a house (the bank won't lend to me) so it's a pretty easy decision
-      right now.
+      and especially not in New Zealand, at least not as a place to live. This
+      is mostly due to the fact that early on in my career I need to be flexible
+      and be able to move to where the jobs are. Additionally, based on my
+      current level of savings and income, it simply would not be viable to buy
+      a house (the bank won't lend to me) so it's a pretty easy decision right
+      now and I'm perfectly happy with it.
     </p>
   </section>
 </template>

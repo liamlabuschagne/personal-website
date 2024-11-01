@@ -288,4 +288,8 @@ section {
   max-width: 900px;
   margin: auto;
 }
+
+img {
+  max-width: 100%;
+}
 </style>

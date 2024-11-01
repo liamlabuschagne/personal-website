@@ -126,8 +126,7 @@
       start to pay more in principal than interest. I used the
       <a href="https://sorted.org.nz/tools/mortgage-calculator/"
         >sorted mortgage repayment calculator</a
-      >
-      (which had a higher mortgage payment estimate by the way).
+      >.
     </p>
     <p>
       If you limited your mortgage payment to only 25% of your net income, what

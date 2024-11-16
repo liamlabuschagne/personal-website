@@ -79,9 +79,9 @@
     <p>
       <strong>Buffers:</strong> A one month buffer in each transactional account
       will handle any deviations from the planned amounts and mean you are
-      always paying this months expenses with last months income. Less expensive
-      months will increase the buffer and more expensive months will consume
-      this increase to create a fairly consistent average.
+      always paying this month's expenses with last month's income. Less
+      expensive months will increase the buffer and more expensive months will
+      consume this increase to create a fairly consistent average.
     </p>
     <p>
       <strong>Maintenance:</strong> At the start of every month, top up the

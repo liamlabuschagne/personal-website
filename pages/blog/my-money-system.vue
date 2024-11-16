@@ -23,6 +23,12 @@
     </p>
   </header>
   <section>
+    <h2>Diagram</h2>
+    <img
+      src="https://docs.google.com/drawings/d/e/2PACX-1vT_3RHASFMuAVx9bE4UsmTROqDq_lEf7dmNl3X9lIuvj2fKipAfyDIldZBRLGAz8sfNNPo0vLXgGToe/pub?w=833&amp;h=523"
+    />
+  </section>
+  <section>
     <h2>Earning</h2>
     <p>
       For this system to work, you will need to decide on a single monthly

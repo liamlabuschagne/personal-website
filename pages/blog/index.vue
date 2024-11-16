@@ -12,6 +12,9 @@
       <li>
         <nuxt-link to="/blog/rent-vs-buy">Rent vs Buy</nuxt-link>
       </li>
+      <li>
+        <nuxt-link to="/blog/my-money-system">My Money System</nuxt-link>
+      </li>
     </ul>
   </div>
 </template>

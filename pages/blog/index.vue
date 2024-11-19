@@ -15,6 +15,9 @@
       <li>
         <nuxt-link to="/blog/my-money-system">My Money System</nuxt-link>
       </li>
+      <li>
+        <nuxt-link to="/blog/credit-cards">Credit Cards</nuxt-link>
+      </li>
     </ul>
   </div>
 </template>

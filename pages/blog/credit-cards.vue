@@ -349,8 +349,34 @@
           <td>$200.00</td>
           <td>$16,000.00</td>
           <td>1.15-1.5%</td>
-          <td>Yes (180 days)</td>
+          <td>Yes (180 days per trip)</td>
           <td>$200 Dining Credit</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://www.tsb.co.nz/cards/platinum-mastercard"
+              >TSB Platinum Mastercard</a
+            >
+          </td>
+          <td>$90.00</td>
+          <td>$9,000.00</td>
+          <td>1%</td>
+          <td>Yes (90 days per trip)</td>
+          <td>
+            Purchase/Price/Mobile Phone insurance, Mastercard priceless offers
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://www.flightcentremastercard.co.nz/benefits/"
+              >Flight Centre Mastercard</a
+            >
+          </td>
+          <td>$50</td>
+          <td>$7,500.00</td>
+          <td>0.67%</td>
+          <td>No</td>
+          <td>0% FX fees and 1% cash back on international purchases</td>
         </tr>
       </tbody>
     </table>

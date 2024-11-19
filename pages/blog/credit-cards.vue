@@ -32,7 +32,7 @@
       cash advances and balance transfers are actually irrelevant. Additionally,
       if the card has an annual fee, you must spend a minimum amount per year on
       the card for the rewards to eclipse the cost of the annual fee, if you
-      expect to easily achieve this every year, stay away.
+      don't expect to easily achieve this every year, stay away.
     </p>
   </section>
   <section>
@@ -60,7 +60,7 @@
       qualifying purchase such as buying plane tickets or booking a hotel. This
       could be worth between $400 and $1000 per year depending on how much you
       travel. If we take this alone and apply it to that same $20,000 of
-      spending it works out to be between a 1.5 and 5% cash back rate. Although
+      spending it works out to be between a 2% and 5% cash back rate. Although
       some years you might not travel and this will bring down the average. So
       clearly these additional benefits are much more significant than the
       reward points or cash back.
@@ -90,7 +90,12 @@
       </thead>
       <tbody>
         <tr>
-          <td>ANZ Airpoints™ Visa</td>
+          <td>
+            <a
+              href="https://www.anz.co.nz/personal/credit-cards/airpoints-visa/"
+              >ANZ Airpoints™ Visa</a
+            >
+          </td>
           <td>$65</td>
           <td>$11,050.00</td>
           <td>0.59%</td>
@@ -98,7 +103,12 @@
           <td>A$50 advance</td>
         </tr>
         <tr>
-          <td>ANZ Airpoints™ Visa Platinum</td>
+          <td>
+            <a
+              href="https://www.anz.co.nz/personal/credit-cards/airpoints-visa-platinum/"
+              >ANZ Airpoints™ Visa Platinum</a
+            >
+          </td>
           <td>$150.00</td>
           <td>$16,500.00</td>
           <td>0.91%</td>
@@ -106,7 +116,24 @@
           <td>Concierge services, A$200 advance, Koru discount</td>
         </tr>
         <tr>
-          <td>ANZ CashBack Visa Platinum</td>
+          <td>
+            <a href="https://www.anz.co.nz/personal/credit-cards/cashback-visa/"
+              >ANZ CashBack Visa</a
+            >
+          </td>
+          <td>$40</td>
+          <td>$6,000.00</td>
+          <td>0.67%</td>
+          <td>No</td>
+          <td>None</td>
+        </tr>
+        <tr>
+          <td>
+            <a
+              href="https://www.anz.co.nz/personal/credit-cards/cashback-platinum/"
+              >ANZ CashBack Visa Platinum</a
+            >
+          </td>
           <td>$80</td>
           <td>$9,600.00</td>
           <td>0.83%</td>
@@ -114,7 +141,12 @@
           <td>Concierge services</td>
         </tr>
         <tr>
-          <td>BNZ Advantage Visa Classic</td>
+          <td>
+            <a
+              href="https://www.bnz.co.nz/personal-banking/credit-cards/bnz-advantage"
+              >BNZ Advantage Visa Classic</a
+            >
+          </td>
           <td>$40.00</td>
           <td>$6,250.00</td>
           <td>0.64%</td>
@@ -122,7 +154,12 @@
           <td>None</td>
         </tr>
         <tr>
-          <td>BNZ Advantage Visa Platinum</td>
+          <td>
+            <a
+              href="https://www.bnz.co.nz/personal-banking/credit-cards/bnz-advantage"
+              >Advantage Visa Platinum</a
+            >
+          </td>
           <td>$90.00</td>
           <td>$8,420.66</td>
           <td>1.07%</td>
@@ -130,7 +167,12 @@
           <td>Concierge services</td>
         </tr>
         <tr>
-          <td>Westpac hotpoints World Mastercard</td>
+          <td>
+            <a
+              href="https://www.westpac.co.nz/credit-cards/hotpoints/hotpoints-world-mastercard/"
+              >Westpac hotpoints World Mastercard</a
+            >
+          </td>
           <td>$285.00</td>
           <td>$48,333.00</td>
           <td>0.45%</td>
@@ -141,7 +183,12 @@
           </td>
         </tr>
         <tr>
-          <td>Westpac hotpoints® Platinum Mastercard</td>
+          <td>
+            <a
+              href="https://www.westpac.co.nz/credit-cards/hotpoints/hotpoints-platinum-mastercard/"
+              >Westpac hotpoints® Platinum Mastercard</a
+            >
+          </td>
           <td>$70.00</td>
           <td>$11,156.00</td>
           <td>0.45%</td>
@@ -149,7 +196,12 @@
           <td>Mastercard Travel and Lifestyle Services</td>
         </tr>
         <tr>
-          <td>Westpac hotpoints® Mastercard</td>
+          <td>
+            <a
+              href="https://www.westpac.co.nz/credit-cards/hotpoints/hotpoints-mastercard/"
+              >Westpac hotpoints® Mastercard</a
+            >
+          </td>
           <td>$40.00</td>
           <td>$14,277.00</td>
           <td>0.23%</td>
@@ -157,7 +209,12 @@
           <td>None</td>
         </tr>
         <tr>
-          <td>Westpac Airpoints™ World Mastercard</td>
+          <td>
+            <a
+              href="https://www.westpac.co.nz/credit-cards/airpoints/westpac-airpoints-world-mastercard/"
+              >Westpac Airpoints™ World Mastercard
+            </a>
+          </td>
           <td>$310.00</td>
           <td>$45,000.00</td>
           <td>0.53%</td>
@@ -165,7 +222,12 @@
           <td>A$200 advance, Priority Pass lounge access, Koru discount</td>
         </tr>
         <tr>
-          <td>Westpac Airpoints™ Platinum Mastercard</td>
+          <td>
+            <a
+              href="https://www.westpac.co.nz/credit-cards/airpoints/westpac-airpoints-platinum-mastercard/"
+              >Westpac Airpoints™ Platinum Mastercard</a
+            >
+          </td>
           <td>$125.00</td>
           <td>$20,500.00</td>
           <td>0.45%</td>
@@ -176,7 +238,12 @@
           </td>
         </tr>
         <tr>
-          <td>Westpac Airpoints™ Mastercard</td>
+          <td>
+            <a
+              href="https://www.westpac.co.nz/credit-cards/airpoints/westpac-airpoints-mastercard/"
+              >Westpac Airpoints™ Mastercard</a
+            >
+          </td>
           <td>$70.00</td>
           <td>$17,500.00</td>
           <td>0.33%</td>
@@ -184,7 +251,11 @@
           <td>A$50 advance</td>
         </tr>
         <tr>
-          <td>SBS Visa Credit Card</td>
+          <td>
+            <a href="https://www.sbsbank.co.nz/credit-cards"
+              >SBS Visa Credit Card</a
+            >
+          </td>
           <td>$0.00</td>
           <td>$0.00</td>
           <td>0.67%</td>
@@ -192,7 +263,11 @@
           <td>None</td>
         </tr>
         <tr>
-          <td>ASB Visa Rewards</td>
+          <td>
+            <a href="https://www.asb.co.nz/credit-cards/visa-rewards.html"
+              >ASB Visa Rewards</a
+            >
+          </td>
           <td>$40.00</td>
           <td>$10,666.67</td>
           <td>0.38%</td>
@@ -200,7 +275,12 @@
           <td>None</td>
         </tr>
         <tr>
-          <td>ASB Visa Platinum Rewards</td>
+          <td>
+            <a
+              href="https://www.asb.co.nz/credit-cards/visa-platinum-rewards.html"
+              >ASB Visa Platinum Rewards</a
+            >
+          </td>
           <td>$80</td>
           <td>$10,666.67</td>
           <td>0.75%</td>
@@ -208,7 +288,12 @@
           <td>None</td>
         </tr>
         <tr>
-          <td>Kiwibank Air New Zealand Airpoints™ Low Fee Visa</td>
+          <td>
+            <a
+              href="https://www.kiwibank.co.nz/personal-banking/credit-cards/airpoints-credit-cards/low-fee-visa/"
+              >Kiwibank Air New Zealand Airpoints™ Low Fee Visa</a
+            >
+          </td>
           <td>$50.00</td>
           <td>$10,000.00</td>
           <td>0.50%</td>
@@ -216,7 +301,12 @@
           <td>A$100 advance</td>
         </tr>
         <tr>
-          <td>Kiwibank Air New Zealand Airpoints™ Platinum Visa</td>
+          <td>
+            <a
+              href="https://www.kiwibank.co.nz/personal-banking/credit-cards/airpoints-credit-cards/platinum-visa/"
+              >Kiwibank Air New Zealand Airpoints™ Platinum Visa</a
+            >
+          </td>
           <td>$180.00</td>
           <td>$20,700.00</td>
           <td>0.87%</td>
@@ -224,7 +314,12 @@
           <td>A$200 advance, Koru discount</td>
         </tr>
         <tr>
-          <td>The American Express Airpoints Card</td>
+          <td>
+            <a
+              href="https://www.americanexpress.com/nz/credit-cards/airnz-base-credit-card/"
+              >The American Express Airpoints Card</a
+            >
+          </td>
           <td>$0.00</td>
           <td>$0.00</td>
           <td>1.00%</td>
@@ -232,7 +327,12 @@
           <td>None</td>
         </tr>
         <tr>
-          <td>The American Express Airpoints Platinum Card</td>
+          <td>
+            <a
+              href="https://www.americanexpress.com/nz/credit-cards/airpoints-cards/airpoints-platinum-card/"
+              >The American Express Airpoints Platinum Card</a
+            >
+          </td>
           <td>$195.00</td>
           <td>$13,650.00</td>
           <td>1.43%</td>
@@ -240,7 +340,12 @@
           <td>Limited lounge access, Koru discount</td>
         </tr>
         <tr>
-          <td>The American Express Gold Rewards Card</td>
+          <td>
+            <a
+              href="https://www.americanexpress.com/nz/credit-cards/gold-credit-card/"
+              >The American Express Gold Rewards Card</a
+            >
+          </td>
           <td>$200.00</td>
           <td>$16,000.00</td>
           <td>1.15-1.5%</td>

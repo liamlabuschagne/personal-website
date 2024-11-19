@@ -337,7 +337,7 @@
           <td>$13,650.00</td>
           <td>1.43%</td>
           <td>Yes (180 days)</td>
-          <td>Limited lounge access, Koru discount</td>
+          <td>A$200 advance, Limited lounge access, Koru discount</td>
         </tr>
         <tr>
           <td>
@@ -380,5 +380,10 @@ table {
 
 tr:nth-child(even) {
   background-color: #d0d0d0;
+}
+
+td,
+th {
+  padding: 0.5rem;
 }
 </style>

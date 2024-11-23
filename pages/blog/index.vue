@@ -18,6 +18,9 @@
       <li>
         <nuxt-link to="/blog/credit-cards">Credit Cards</nuxt-link>
       </li>
+      <li>
+        <nuxt-link to="/blog/savings-accounts">Savings Accounts</nuxt-link>
+      </li>
     </ul>
   </div>
 </template>

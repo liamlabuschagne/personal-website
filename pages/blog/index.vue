@@ -4,6 +4,9 @@
     <h2>Posts</h2>
     <ul>
       <li>
+        <nuxt-link to="/blog/nz-poverty-line">New Zealand Povery Line</nuxt-link>
+      </li>
+      <li>
         <nuxt-link to="/blog/this-website">This Website</nuxt-link>
       </li>
       <li>

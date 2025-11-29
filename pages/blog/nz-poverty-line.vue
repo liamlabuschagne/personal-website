@@ -198,22 +198,15 @@ https://www.ird.govt.nz/vehicle-expenses">IRD vehicle kilometer rates</a> for on
     </p>
     <h3>Final Thoughts</h3>
     <p>
-        So on the whole, this simple anaylsis shows that it is indeed incredible expensive to live in New Zealand
-        relative to the wages you receieve. <br>
+        So on the whole, this simple analysis shows that it is indeed incredibly expensive to live in New Zealand relative to the wages you receive. <br>
         <br>
-        It shows that in Auckland you need a household income of 76% of the median in Auckland or almost 100% of the
-        national median household income to not be in poverty. That means across the country something like 50% of our
-        households are realstically in poverty.<br>
+        It shows that in Auckland you need a household income of 76% of the median in Auckland or almost 100% of the national median household income to not be in poverty. That means across the country something like 50% of our households are realistically in poverty.
+<br>
         <br>
-        This also assumes you have only two kids and that there is no extra money for savings or holidays or birthdays
-        or any other random expenses. It is quite a bleak picture. Especially when you compare that to the good 'ol days
-        when just one income earner was enough to afford not only a povery lifestyle but a comfortable one which
-        incldued home ownership. <br>
+        This also assumes you have only two kids and that there is no extra money for savings or holidays or birthdays or any other random expenses. It is quite a bleak picture. Especially when you compare that to the good 'ol days when just one income earner was enough to afford not only a poverty lifestyle but a comfortable one which included home ownership.
+ <br>
         <br>
-        Today to just reach the povery line on one income that is $144k gross income. Notable is that even though a big
-        percentage of our population seems to be below or near the povery line we don't have very high childcare or
-        healthcare costs which were really the two big killers in the US. In New Zealand that seems to be Housing and
-        Food (and our petrol is at least 2x as expensive as the US).
+        Today to just reach the poverty line on one income that is $144k gross income. Notable is that even though a big percentage of our population seems to be below or near the povery line we don't have very high childcare or healthcare costs which were really the two big killers in the US. In New Zealand that seems to be Housing and Food (and our petrol is at least 2x as expensive as the US). 
     </p>
 </template>
 <style scoped>

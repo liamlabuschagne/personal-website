@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JS 2048</title>
+	<style>
+		#submitBtn {
+			z-index: 100;
+			display: block;
+			margin: auto;
+		}
+		html, body {
+			width:100%;
+			height: 100%;
+		}
+
+		canvas {
+			min-width: 400px;
+			min-height: 500px;
+			display: none;
+			margin: auto;
+			border: 1px solid black;
+		}
+
+		@media screen and (max-width: 800px)
+		{
+			canvas {
+				width: 90%;
+				height: 100%;
+			}
+		}
+
+		button {
+			font-size: 3em;
+		}
+	</style>
+</head>
+<body>
+	<h1 style="text-align: center;">2048</h1>
+	<br><br><br><br>
+	<canvas id="canvas"></canvas>
+	<button onclick="submitScore();" style="display: none;" id="submitBtn">Submit Score</button>
+	<script src="script.js"></script>
+	<div style="width:100%; max-width: 800px; display: block; margin: auto;">
+		<button style="display: block; margin: auto;" onclick="setup(); draw(); canvas.style.display = 'block'; this.style.display = 'none';">Start</button>
+		<div class="info">
+			<p>
+				Swipe or use the arrow keys to shift the blocks to a desiered direction, you must make tiles with the same number collide to combine them and eventually get the tile that says 2048 or untill your board is full!
+				Remember to submit your score!
+			</p>
+		</div>
+	</div>
+	<br><br><br><br>
+</body>
+</html>

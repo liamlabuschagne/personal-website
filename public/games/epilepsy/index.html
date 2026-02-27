@@ -1,0 +1,78 @@
+<html>
+<style>
+* {
+	margin:0px;
+}
+</style>
+<body>
+	<canvas id="canvas"></canvas>
+</body>
+<script>
+    var c=document.getElementById("canvas");
+    canvas.width = document.body.clientWidth;
+    canvas.height = document.body.clientHeight;
+    var ctx=c.getContext("2d");
+    var x=0,y=0;
+    var numOfBoxes = 9999;
+	
+    function box()
+    {
+        this.x = Math.floor(Math.random() * canvas.width);
+        this.y = Math.floor(Math.random() * canvas.height);
+        this.w = 10;
+        this.h = 10;
+        this.vx = 0 - Math.random() * 5;
+        this.vy = 0 - Math.random() * 5;
+        
+        this.draw = function()
+        {
+            var r = Math.floor(Math.random() * 254);
+            var g = Math.floor(Math.random() * 254);
+            var b = Math.floor(Math.random() * 254);
+            var d = Math.floor(Math.random() * 100);
+            this.w = d;
+            this.h = d;
+            ctx.fillStyle = "rgb("+r+","+g+","+b+")";
+            ctx.fillRect(this.x,this.y,this.w,this.h);
+        }
+        
+        this.move = function()
+        {
+            if(this.x > c.width || this.x < 0)
+                this.vx = -this.vx;
+            if(this.y > c.height || this.y < 0)
+                this.vy = -this.vy;
+            this.x+=this.vx;
+            this.y+=this.vy;
+        }
+    }
+    
+    var boxes = [];
+    
+    for(var i = 0; i < numOfBoxes; i++)
+    {
+        var tmpBox = new box();
+        boxes.push(tmpBox);
+    }
+        
+    function draw()
+    {
+		//Clear the screen
+        ctx.clearRect(0,0,c.width,c.height);
+		//Move all the boxes
+        for(var i = 0; i < numOfBoxes; i++) boxes[i].move();
+		//Draw all the boxes
+        for(var i = 0; i < numOfBoxes; i++) boxes[i].draw();
+    }
+	
+	function newBox()
+	{
+		var tmpBox = new box();
+        boxes.push(tmpBox);
+	}
+	
+	document.getElementById("canvas").addEventListener("click", newBox);
+    
+    setInterval(draw,1000/15);
+</script>
+</html>

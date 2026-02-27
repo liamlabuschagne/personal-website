@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<style>
+	#gameOver {
+		font-size: 50px;
+		text-align: center;
+	}
+	#btn {
+		font-size: 30px;
+		background-color: lightblue;
+		width: 200px;
+		text-align: center;
+		cursor: pointer;
+		margin: auto;
+		visibility: show;
+		padding: 0px;
+	}
+	canvas {
+		display: block;
+		margin: auto;
+	}
+        p {
+                text-align: center;
+        }
+    #jump {
+        font-size: 100px;
+    }
+    #form {
+    	padding-top: 50px;
+    }
+    #hiScores {
+    	font-size: 20px;
+    }
+    h2 {
+    	text-align:center;
+    }
+    ol {
+    	text-align: center;
+    }
+    #hi {
+    	border-bottom: 3px solid black;  
+    }
+	</style>
+</head>
+<body>
+<script>//Score Board</script>
+<h1 id="coins" align="center">Score: 0</h1>
+
+<script>//GameOver Screen var name;</script>
+
+<h1 id="gameOver"></h1>
+<h1 id="btn" onclick="location.reload();">Play Again</h1>
+<div align="center">
+</div>
+<script>//Libraries</script>
+
+<script src="../p5/p5.js"></script>
+<script src="../p5/p5.play.js"></script>
+<script src="main.js"></script>
+<script>//Page</script>
+<div id="info" align="center">
+    <script>
+    var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
+    if(width < 800){
+      document.write("How to play: Tap hand hold the screen to jump");
+    }
+    else if(width > 800){
+      document.write("How to play: Use arrow keys to move");
+    }
+   </script>
+</div>
+<button onclick="submitScore();" style="display: none;" id="submitBtn">Submit Score</button>
+</body>
+</html>

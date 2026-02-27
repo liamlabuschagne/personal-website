@@ -7,6 +7,8 @@
       this website is made of!
     </p>
     <NuxtLink to="/blog">Blog</NuxtLink>
+    <br>
+    <a href="/games/" target="_blank">Games</a>
     <h2>My Links</h2>
     <p>The following are links to the rest of my digital presence.</p>
     <ul>

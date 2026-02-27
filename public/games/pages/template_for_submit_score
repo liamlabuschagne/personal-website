@@ -1,0 +1,6 @@
+document.getElementById("submitBtn").style.display = "block";
+function submitScore()
+{
+	window.location = "../?action=submitscore&score="+YOUR SCORE VARIABLE HERE+"&game=YOUR GAME HERE&extra_info=YOUR EXTRA INFO HERE";
+}
+<button onclick="submitScore();" style="display: none;" id="submitBtn">Submit Score</button>

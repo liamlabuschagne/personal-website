@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Yahtzee</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="container">
+	<div class="images" style="visibility: hidden; height: 0;">
+		<img src="images/dice1.bmp" id="dice1">
+		<img src="images/dice2.bmp" id="dice2">
+		<img src="images/dice3.bmp" id="dice3">
+		<img src="images/dice4.bmp" id="dice4">
+		<img src="images/dice5.bmp" id="dice5">
+		<img src="images/dice6.bmp" id="dice6">
+	</div>
+	<div class="game-area">
+		<h1 style="text-align: center;">Yahtzee!</h1>
+		<canvas id="c"></canvas>
+		<div class="controls">
+			<div id="select-btns">
+				<button id="select1" onclick="select(1)">Select</button>
+				<button id="select2" onclick="select(2)">Select</button>
+				<button id="select3" onclick="select(3)">Select</button>
+				<button id="select4" onclick="select(4)">Select</button>
+				<button id="select5" onclick="select(5)">Select</button>
+			</div>
+			<p id="mbox"></p>
+			<h3 id="roll-count">Rolls left: 3</h3>
+			<button id="roll-btn" onclick="go()">Roll</button>
+			<button onclick="end_screen()">Give Up</button>
+		</div>
+	</div>
+	<div class="points-table">
+		<h2>Points Table</h2>
+		<table>
+			<tr><th>Upper Section</th><th>Points</th></tr>
+			<tr><td>Ones</td><td id="table1">0</td></tr>
+			<tr><td>Twos</td><td id="table2">0</td></tr>
+			<tr><td>Threes</td><td id="table3">0</td></tr>
+			<tr><td>Fours</td><td id="table4">0</td></tr>
+			<tr><td>Fives</td><td id="table5">0</td></tr>
+			<tr><td>Sixes</td><td id="table6">0</td></tr>
+			<tr><td>Bonus</td><td id="table14">0</td></tr>
+			<tr><td>Total of Upper Section</td><td id="table15">0</td></tr>
+		</table>
+		<hr>
+		<table>
+			<tr><th>Lower Section</th><th>Points</th></tr>
+			<tr><td>3 of a kind</td><td id="table7">0</td></tr>
+			<tr><td>4 of a kind</td><td id="table8">0</td></tr>
+			<tr><td>Full House</td><td id="table9">0</td></tr>
+			<tr><td>Small Straight</td><td id="table10">0</td></tr>
+			<tr><td>Large Straight</td><td id="table11">0</td></tr>
+			<tr><td>Yahtzee</td><td id="table12">0</td></tr>
+			<tr><td>Chance</td><td id="table13">0</td></tr>
+			<tr><td>Total of Lower Section</td><td id="table16">0</td></tr>
+			<tr><td>Grand Total</td><td id="table17">0</td></tr>
+		</table>
+	</div>
+</div>
+<script src="script.js"></script>
+<button onclick="submitScore();" style="display: none;" id="submitBtn">Submit Score</button>
+</body>
+</html>

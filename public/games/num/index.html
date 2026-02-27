@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+	
+	<head>
+	<style>
+		body {
+			font-size: 50px;
+			text-align:center;
+		}
+		input {
+			font-size: 20px;
+			width: 200px;
+			height: 50px;
+		}
+		button {
+			font-size: 20px;
+			width: 200px;
+			height: 50px;
+		}
+	</style>
+	</head>
+
+	<body id="body">
+		<p id="p1">0 Guesses</p>
+		<p id="p">Waiting for guess</p>
+		<input id="i" type="text" placeholder="Your guess" onkeypress="handle(event)" /><br>
+		<button onclick="wait()">Check</button><br>
+		<button onclick="reset()">Reset</button>
+	</body>
+	
+	<script>
+		var numGuesses = 0;
+		var number = Math.floor(Math.random() * 100);
+		var input;
+		var won;
+		function check()
+		{
+			if(!won)
+			{
+			numGuesses++;
+			document.getElementById("p1").innerHTML = numGuesses+" Guesses";
+			}
+			input = document.getElementById("i").value;
+			if(input == number)
+			{
+				document.getElementById("p").style = "color: green;"
+				document.getElementById("p").innerHTML = "YOU WON!!!";
+				won = true;
+			}
+			else if(input < number)
+			{
+				document.getElementById("p").style = "color: red;"
+				document.getElementById("p").innerHTML = "Higher!";
+			}
+			else 
+			{
+				document.getElementById("p").style = "color: red;"
+				document.getElementById("p").innerHTML = "Lower!";
+			}
+			document.getElementById("i").value = "";
+		}
+		function wait() {
+			document.getElementById("p").style = "color: black";
+			document.getElementById("p").innerHTML = "...";
+			setTimeout(check, 1000);
+		}
+                function handle(e)
+                {
+                        if(e.keyCode == 13){
+                             wait();
+                        }
+                }
+        function reset(){
+			location.reload();
+        }
+	</script>
+</html>		

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title></title>
+	<style type="text/css">
+		canvas {
+			display: block;
+			margin: auto;
+		}
+
+		div {
+			width: 300px;
+			margin: auto;
+		}
+	</style>
+</head>
+
+<body>
+	<script>var p2 = false;</script>
+	<div align="center">
+		<fieldset>
+			<input type="radio" name="diff" onclick="setDiff(10)">Easy</input>
+			<input type="radio" name="diff" onclick="setDiff(20)">Medium</input>
+			<input type="radio" name="diff" onclick="setDiff(30)">Hard</input>
+		</fieldset>
+	</div>
+	<br>
+	<div align="center">
+		<fieldset>
+			<input type="radio" name="mode" onclick="setMode(0);">First to:<input type="number"
+				onkeyup="setN(this.value)" /></radio><br>
+			<input type="radio" name="mode" onclick="setMode(1);">Infinite</button>
+			<br>
+		</fieldset>
+		<br>
+		<button onclick="startGame();">Start</button>
+		<button onclick="location.reload()">Reset</button>
+		<a href="\game\pong2p">2 Player</a>
+	</div>
+	<script src="libraries/p5.js"></script>
+	<script src="libraries/p5.play.js"></script>
+	<script src="script.js"></script>
+</body>
+
+</html>

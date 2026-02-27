@@ -1,0 +1,31 @@
+.r, .g, .b, .w, .a {
+    width: 140px;
+    color:white;
+    font-family: "Verdana";
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+.r {
+   background: #FF0000;
+}
+
+.g {
+   background: #00FF00; 
+}
+
+.b {
+   background: #0000FF; 
+}
+
+.a {
+   background: white;
+   color: black;
+}
+
+.w {
+   background: black; 
+}

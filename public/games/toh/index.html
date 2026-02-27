@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tower Of Hanoi</title>
+	<style>
+		body {
+			display: block;
+			margin: auto;
+			width:100%;
+			max-width: 600px;
+		}
+		canvas {
+			position: relative;
+			display: block;
+			margin: auto;
+		}
+	</style>
+</head>
+<body id="body">
+<div id="start">
+<h1>Tower of Hanoi</h1>
+<h3>Instrucions</h3>
+<p>Your goal is to move the stacked blocks to the other end. Each stack is a different colour. To move a block just click inside the coloured area and then click which stack you want it to go to. If you make a mistake or want to cancel your selection just click off of the game area. Try to beat the clock and your friends by making the least amount of moves.</p>
+<h3>Choose the number of blocks (Max 20)</h3>
+<input id="input" type="number" value="3" max="20" />
+<button onclick="setBlocks(document.getElementById('input').value)">Start</button>
+</div>
+<canvas id="canvas" width="0" height="0"></canvas>
+<script src="script.js"></script>
+<button onclick="submitScore();" style="display: none;" id="submitBtn">Submit Score</button>
+</body>
+</html>

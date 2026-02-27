@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+
+<body>
+	<script>
+		var stop = false;
+		var denom = 1;
+		var pi = 0;
+		var i = 0;
+		function calc()
+		{
+				if(i % 2 == 0)
+				{
+					pi += (4/denom);
+					denom+=2;
+				}
+				else {
+					pi -= (4/denom);
+					denom+=2;
+				}
+				i++;
+				wait();
+		}
+		function wait()
+		{
+			console.log(pi);
+			document.getElementById("p").innerHTML = "Currently PI = " + pi;
+			setTimeout(calc, 1);
+		}
+	</script>
+
+	<button onclick="calc()">Calculate PI</button>
+	<p id="p">Currently pi = 0</p>
+</body>
+
+</html>

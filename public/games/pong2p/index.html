@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title></title>
+	<style type="text/css">
+		canvas {
+			display: block;
+			margin: auto;
+		}
+
+		div {
+			width: 300px;
+			margin: auto;
+		}
+	</style>
+</head>
+
+<body>
+	<div align="center">
+		<fieldset>
+			<input type="radio" name="mode" onclick="setMode(0);">First to:<input type="number"
+				onkeyup="setN(this.value)" /></radio><br>
+			<input type="radio" name="mode" onclick="setMode(1);">Infinite</button>
+			<br>
+		</fieldset>
+		<br>
+		<button onclick="startGame();">Start</button>
+		<button onclick="location.reload()">Reset</button>
+		<a href="\game\pong">1 Player</a>
+	</div>
+	<script src="libraries/p5.js"></script>
+	<script src="libraries/p5.play.js"></script>
+	<script src="pong2p.js"></script>
+</body>
+
+</html>
